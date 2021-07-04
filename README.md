@@ -15,6 +15,7 @@ My project is about heart attack analysis. In the data set, there are several di
 I inlcuded my work below including a Jupyter notebook and a poster. 
 * Poster by Tingyue Cui (https://lucid.app/lucidchart/invitations/accept/inv_654bbf20-a70e-4a3f-9b42-995cdcc821e5)
 * Jupyter Notebook by Tingyue Cui (https://colab.research.google.com/drive/15XbZ-4D5GKusjl7NseuFJrPWv__OLR1B?usp=sharing)
+* Video by Tingyue Cui (https://drive.google.com/file/d/1K5ujxV7-_0mVydZzNERJGvP_rTGPqNze/view?usp=sharing)
 # About My Dataset
 I found my dataset on Kaggle, here is the link https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset. 
 # More
